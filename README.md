@@ -1,6 +1,26 @@
 # StradigiCompany2017_DEV_TEST
 PHP , MVC , HTML , CSS , JavaScript , Bootstrap 
 
+************************
+*Web Developer Exercise*
+************************
+
+The following exercise is designed mainly to
+test your proficiency with responsive web
+development techniques and to test your
+ability to make choices when minimal
+direction is provided.
+
+Skills required to complete this exam:
+
+High proficiency with responsive web techniques
+High proficiency with JS
+Experience with HTML5 and PHP
+Experience with CSS animation and transitions
+Experience using an MVC structure
+
+
+
 Home / Gallery page
 Gallery page instructions:
 Dynamically load 12 images at a time
