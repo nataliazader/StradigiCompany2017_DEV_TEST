@@ -30,9 +30,9 @@
 		captionText.innerHTML = alt ;		
 	}
 
-	var span = document.getElementsByClassName("closeImg")[0];
+	var closeImg = document.getElementsByClassName("closeImg")[0];
 
-	span.onclick = function() { 
+	closeImg.onclick = function() { 
 		zoomImage.style.display = "none";
 	}
 	 
